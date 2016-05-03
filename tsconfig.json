@@ -1,13 +1,13 @@
 {
     "compilerOptions": {
-        "target": "ES6",
-        "module": "commonjs",
+        "target": "es2015",
+        "module": "system",
         "sourceMap": true,
         "watch": true
     },
     "files": [
-        "typings/browser.d.ts",
+        "typings/tsd.d.ts",
         "globals.d.ts",
-        "app.ts"
+        "app.ts" 
     ]
 }

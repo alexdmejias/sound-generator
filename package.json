@@ -4,10 +4,10 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "leapmotion-ts": "^2.2.4"
+    "leapmotion-ts": "^2.2.4",
+    "systemjs": "^0.19.27"
   },
   "devDependencies": {
-    "retyped-leapmotionts-tsd-ambient": "^0.7.9-0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
