@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "sourceMap": true,
+        "watch": true
+    },
+    "files": [
+        "typings/browser.d.ts",
+        "globals.d.ts",
+        "app.ts"
+    ]
+}

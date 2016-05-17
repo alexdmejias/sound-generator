@@ -1,0 +1,8 @@
+{
+  "name": "sound-gen",
+  "version": false,
+  "dependencies": {
+    "WebAudio": "github:Tonejs/TypeScript/WebAudio.d.ts",
+    "leapmotionts-2.2.4": "github:logotype/LeapMotionTS/build/leapmotionts-2.2.4.d.ts"
+  }
+}
